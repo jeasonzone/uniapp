@@ -1,0 +1,22 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarBackgroundColor": "#FFFFFF",
+				"navigationBarTextStyle": "black",
+				"titleImage": "https://edr.sangfor.com.cn/static/img/edr-logo.9e4b708.png",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px"
+						}]
+					},
+					"bounce": "none"
+				}
+			}
+		}
+	]
+}
